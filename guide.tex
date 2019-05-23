@@ -1,0 +1,73 @@
+\documentclass[titlestyle=hang,11pt]{elegantbook}
+
+\author{~~~~~~陈~应~洪~~~~~~}
+\email{985514056@qq.com}
+
+\zhtitle{贝尔加教育}
+\zhend{数学}
+\entitle{BEI~ER~JIA~EDUCATION}
+\enend{MATH}
+\version{3.00}
+\myquote{Victory won\rq t come to us unless we go to it.}
+\logo{logo.png}
+\cover{cover.pdf}
+%%%%%%%%%%%
+
+
+%%%%%%%%
+%%%%%%%%%%%%%%%%%
+%green color
+   \definecolor{main1}{RGB}{0,120,2}
+   \definecolor{second1}{RGB}{230,90,7}
+   \definecolor{third1}{RGB}{0,160,152}
+%cyan color
+   \definecolor{main2}{RGB}{0,175,152}
+   \definecolor{second2}{RGB}{239,126,30}
+   \definecolor{third2}{RGB}{120,8,13}
+%blue color
+   \definecolor{main3}{RGB}{20,50,104}
+   \definecolor{second3}{RGB}{180,50,131}
+   \definecolor{third3}{RGB}{7,127,128}
+\usepackage{draftwatermark} %水印包
+\SetWatermarkText{贝尔加教育} %水印的标示
+\SetWatermarkLightness{0.8} %水印的亮度
+\SetWatermarkScale{0.7}     %水印的大小
+\usetikzlibrary{snakes}
+\usetikzlibrary{arrows.meta}
+\usepackage{makecell}
+\usepackage{lipsum}
+\usepackage{texnames}
+\usepackage{pgf,tikz,pgfplots}
+\usepackage{tasks}%选择题宏包，tasks环境
+\settasks{counter-format={tsk[A].},
+	label-offset={0.4em},
+	label-align=left,
+	column-sep={2pt},
+	item-indent={1pt},before-skip={-0.7em},after-skip={-0.7em}}
+\usepackage{asymptote}
+
+	
+\begin{document}
+\maketitle
+\tableofcontents
+\mainmatter
+
+\include{chapter/budengs}
+\include{chapter/jihe}
+
+\include{chapter/hanshu1}
+\include{chapter/hsdd}
+\include{chapter/hsddx}
+\include{chapter/hszdshu}
+\include{chapter/gailu1}
+\include{chapter/kongjian}
+\include{chapter/zhixian}
+\include{chapter/zhixia}
+\include{chapter/pxsbx}
+\include{chapter/ctyl}
+\include{chapter/ctyl1}
+\include{chapter/gcwt2}
+\include{chapter/xcwt1}
+\include{chapter/fswt1}
+\include{chapter/ecgs1}
+\end{document}
