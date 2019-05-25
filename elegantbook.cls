@@ -281,8 +281,9 @@
 
 %% Exercise with counter
 \newcounter{exercise}[chapter]
-\renewcommand{\theexercise}{\thechapter.\arabic{exercise}}
-\newenvironment{exercise}{\par\noindent\textbf{练习\,\refstepcounter{exercise}\theexercise }}{\par}
+%%\renewcommand{\theexercise}{\thechapter.\arabic{exercise}}
+\renewcommand{\theexercise}{\arabic{exercise}}
+\newenvironment{exercise}{\par\noindent\textbf{练\,\refstepcounter{exercise}\theexercise .}}{\par}
 
 %%define the note and proof environment
 \RequirePackage{pifont,manfnt}
