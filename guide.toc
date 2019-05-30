@@ -81,7 +81,12 @@
 \contentsline {section}{\numberline {18.2}二次根式的性质}{40}{section.18.2}
 \contentsline {subsection}{\numberline {18.2.1}例题分析}{40}{subsection.18.2.1}
 \contentsline {subsection}{\numberline {18.2.2}练习}{41}{subsection.18.2.2}
-\contentsline {chapter}{\numberline {19}按比例分配}{43}{chapter.19}
-\contentsline {section}{\numberline {19.1}知识点}{43}{section.19.1}
-\contentsline {section}{\numberline {19.2}例题分析}{43}{section.19.2}
-\contentsline {section}{\numberline {19.3}练习}{44}{section.19.3}
+\contentsline {chapter}{\numberline {19}二次根式的乘法}{43}{chapter.19}
+\contentsline {section}{\numberline {19.1}二次根式的乘法法则}{43}{section.19.1}
+\contentsline {chapter}{\numberline {20}二次根式的加法}{44}{chapter.20}
+\contentsline {section}{\numberline {20.1}二次根式的加法法则}{44}{section.20.1}
+\contentsline {section}{\numberline {20.2}例题分析}{44}{section.20.2}
+\contentsline {chapter}{\numberline {21}按比例分配}{46}{chapter.21}
+\contentsline {section}{\numberline {21.1}知识点}{46}{section.21.1}
+\contentsline {section}{\numberline {21.2}例题分析}{46}{section.21.2}
+\contentsline {section}{\numberline {21.3}练习}{47}{section.21.3}
