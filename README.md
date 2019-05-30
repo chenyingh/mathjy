@@ -1,2 +1,2 @@
 # mathjy
-贝尔加数学讲义
+bei er jia education mathyj
