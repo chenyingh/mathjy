@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.12.13)  30 MAY 2019 19:00
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.12.13)  2 JUN 2019 14:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2191,7 +2191,7 @@ LaTeX Warning: Label `thm:31' multiply defined.
 
 LaTeX Warning: Label `thm:31' multiply defined.
 
-) (./chapter/zhixian.aux) (./chapter/zhixia.aux) (./chapter/pxsbx.aux) (./chapter/ctyl.aux) (./chapter/ctyl1.aux) (./chapter/gcwt2.aux) (./chapter/xcwt1.aux) (./chapter/fswt1.aux) (./chapter/ecgs1.aux) (./chapter/ercgs2.aux) (./chapter/ercgs3.aux) (./chapter/ablfp.aux))
+) (./chapter/zhixian.aux) (./chapter/zhixia.aux) (./chapter/pxsbx.aux) (./chapter/ctyl.aux) (./chapter/ctyl1.aux) (./chapter/gcwt2.aux) (./chapter/xcwt1.aux) (./chapter/fswt1.aux) (./chapter/ecgs1.aux) (./chapter/ercgs2.aux) (./chapter/ercgs3.aux) (./chapter/ablfp.aux) (./chapter/lifc1.aux) (./chapter/lifc2.aux))
 \openout1 = `guide.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 50.
@@ -3026,15 +3026,36 @@ Missing character: There is no ∶ in font [lmroman12-regular]:mapping=tex-text;
 ]
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
- [47]) [48] 
+ [47]) [48]
+\openout2 = `chapter/lifc1.aux'.
+
+ (./chapter/lifc1.tex
+第 22\tmspace +\thickmuskip {.2777em}讲 22.
+
+Underfull \vbox (badness 7221) has occurred while \output is active []
+
+ [49
+
+
+
+] [50]) [51]
+\openout2 = `chapter/lifc2.aux'.
+
+ (./chapter/lifc2.tex
+第 23\tmspace +\thickmuskip {.2777em}讲 23.
+[52
+
+
+
+] [53]) [54] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
-(./guide.aux (./chapter/budengs.aux) (./chapter/jihe.aux) (./chapter/hanshu1.aux) (./chapter/hsdd.aux) (./chapter/hsddx.aux) (./chapter/hszdshu.aux) (./chapter/gailu1.aux) (./chapter/kongjian.aux) (./chapter/zhixian.aux) (./chapter/zhixia.aux) (./chapter/pxsbx.aux) (./chapter/ctyl.aux) (./chapter/ctyl1.aux) (./chapter/gcwt2.aux) (./chapter/xcwt1.aux) (./chapter/fswt1.aux) (./chapter/ecgs1.aux) (./chapter/ercgs2.aux) (./chapter/ercgs3.aux) (./chapter/ablfp.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
+(./guide.aux (./chapter/budengs.aux) (./chapter/jihe.aux) (./chapter/hanshu1.aux) (./chapter/hsdd.aux) (./chapter/hsddx.aux) (./chapter/hszdshu.aux) (./chapter/gailu1.aux) (./chapter/kongjian.aux) (./chapter/zhixian.aux) (./chapter/zhixia.aux) (./chapter/pxsbx.aux) (./chapter/ctyl.aux) (./chapter/ctyl1.aux) (./chapter/gcwt2.aux) (./chapter/xcwt1.aux) (./chapter/fswt1.aux) (./chapter/ecgs1.aux) (./chapter/ercgs2.aux) (./chapter/ercgs3.aux) (./chapter/ablfp.aux) (./chapter/lifc1.aux) (./chapter/lifc2.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `guide.out' has not changed.
-(rerunfilecheck)             Checksum: DA0183AACF5179099AB84B201B7998E8.
+(rerunfilecheck)             Checksum: F36D9B59E74CBE3ED595A538177E60C0.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3048,12 +3069,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 57020 strings out of 492970
- 1304442 string characters out of 6137297
+ 57064 strings out of 492970
+ 1306374 string characters out of 6137297
  1678696 words of memory out of 5000000
- 59912 multiletter control sequences out of 15000+600000
+ 59942 multiletter control sequences out of 15000+600000
  574572 words of font info for 180 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  70i,19n,103p,10432b,1213s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on guide.pdf (54 pages).
+Output written on guide.pdf (60 pages).
